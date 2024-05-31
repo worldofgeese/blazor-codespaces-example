@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm the lead engineer of a team of brilliant developer advocates at the LEGO Group. I enjoy creating short films, tending to the Kubernetes cluster in my closet, and storytelling through tabletop roleplaying games.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Wardley Mapping",
+    "Technical writing",
+    "Public speaking",
+    "Cloud architecture",
+    "Technical marketing",
+    "Sociotechnical systems"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about empowering developers and the teams they participate in. I believe that the best way to do this is to provide them with the tools and knowledge they need to succeed. I am a firm believer in the power of open source software and the importance of community in the tech industry."
 }

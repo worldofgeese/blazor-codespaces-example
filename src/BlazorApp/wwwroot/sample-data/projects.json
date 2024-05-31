@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "SREcon22 EMEA - Emotional Disaster Recovery: Debugging the Self with Effective Monitoring",
+    "description": "We may tend to a cosmos of computers in our day jobs but we still suffer from an abundance of feelings its constellations lack. It's easy to lose ourselves in anger or stress or feel overwhelmed. Totally normal, healthy and human. How you react to those big feelings is a choice. From Western thinkers like Marcus Aurelius to Eastern contemplatives like The Buddha, we unearth practical techniques you can adopt in the workplace and on Twitter to keep yourself sane, kind and effective.",
+    "url": "https://youtu.be/ieiZJ6EWlDo?feature=shared"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Mjød, a short film",
+    "description": "In an evacuated land, only Lucia the Favored is left alive. Her journey takes her from a hidden refuge deep in the woods to the beaches of the End of the World. An unlikely ally seeks to help her in her quest to re-discover who she is and her purpose.",
+    "url": "https://www.dropbox.com/s/kimawyac1gpeba0/Mead%20%282018%29.mp4?dl=0"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "Thinking in Systems: A Sociotechnical Approach to DevOps",
+    "description": "We need a holistic approach to DevOps, one that treats tools, workers who use them and the wider organizations as contributing parts of an interdependent whole.",
+    "url": "https://thenewstack.io/thinking-in-systems-a-sociotechnical-approach-to-devops/"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "Building the Perfect Internal Developer Platform with Linkerd and Garden",
+    "description": "Linkerd's support for vendor-agnostic multi-clusters enable a self-service IDP that is equal to production but feels locally as light as gossamer. Linkerd takes the pain out of observability, security, and resiliency. Garden takes the pain out of building, testing and deploying applications to Kubernetes.",
+    "url": "https://buoyant.io/blog/developer-platform-with-linkerd-and-garden"
   }
 ]

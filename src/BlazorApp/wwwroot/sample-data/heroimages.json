@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/animals-2030018.svg",
+    "alt": "A digital illustration of five Canada geese in mid-flight against a black background. The geese are depicted with their wings fully extended, showcasing the varying shades of brown, white, and black on their feathers."
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/geese-4101651.svg",
+    "alt": "A pattern of black silhouetted geese flying across a blank field."
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/goose-1299735.svg",
+    "alt": "A solitary goose flying from right to left with wings upraised. It is looking directly out to the viewer as if to say, 'Hello!'"
   }
 ]
